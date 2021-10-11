@@ -1,0 +1,43 @@
+body{
+    background-image: url(gnr1.png);
+    background-position: center;
+    background-size: inherit;
+    font-family: sans-serif;
+    margin-bottom: 150px;
+    margin-top: 85px;
+}
+.LayoutHeader{
+    width: 700px;
+    height: 80px;
+    background-color: rgb(0,0,0,0.6);
+    margin:auto;
+    color: #FFFFFF;
+    padding: 9px 0px 9px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+    font-family: sans-serif;
+}
+.LayoutForm{
+    background-color: rgb(0,0,0,0.5);
+    width: 700px;
+    margin :auto;
+}
+.peringatan{
+    background-color: rgba(230, 0, 0, 0.459);
+    font-family:'Lucida Sans Unicode';
+    color: seashell;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+}
+form{
+    padding:10px;
+}      
+table td{
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 70px;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+}
